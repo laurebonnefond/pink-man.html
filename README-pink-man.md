@@ -11,7 +11,7 @@
 
 ## 🎮 Jouer
 
-👉 **[Jouer maintenant](https://laurebonnefond.github.io/PreventIA-LaB/pink-man.html)**
+👉 **[Jouer maintenant](https://laurebonnefond.github.io/pink-man.html)**
 
 Aucune installation requise — fonctionne directement dans le navigateur (PC, tablette, smartphone).
 
@@ -109,8 +109,6 @@ Les 4 rubans roses géants dans les coins du labyrinthe activent le **Mode Ruban
 ## 🚀 Installation locale
 
 ```bash
-# Cloner le repo
-git clone https://github.com/laurebonnefond/PreventIA-LaB.git
 
 # Ouvrir le jeu
 open pink-man.html
@@ -123,7 +121,7 @@ python3 -m http.server 8000
 
 ## 📁 Intégration dans PréventIA-LaB
 
-Ce jeu fait partie de la suite **[PréventIA-LaB](https://laurebonnefond.github.io/PreventIA-LaB/)**, une collection d'outils numériques pour la prévention et la santé au travail.
+Ce jeu fait partie de la suite **[PréventIA-LaB](https://laurebonnefond.github.io/pink-man.html)**, une collection d'outils numériques pour la prévention et la santé au travail.
 
 Section : **Apprendre en s'amusant**
 
